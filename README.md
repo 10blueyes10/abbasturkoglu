@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abbasturkoglu
+- 👋 Hi, I’m @haruncihangir
 - 👀 I’m interested in image processing and artificial intelligence.
 - 🌱 I’m currently learning CUDA.
 - 📫 You can contact me via form on https://abbasturkoglu.com.tr
